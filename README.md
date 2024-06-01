@@ -7,8 +7,6 @@
     
          - Constantly learning 📖 I'm a curious person (●'◡'●)
     
-         - What I'm reading 📗: Natural Language Processing With Transformers by Lewis Tunstall, Leandro Von Werra, Thomas Wolf
-    
          - Hobbies : ⛹️🏀🎶🧑‍🍳 
   </samp>
 </p>
@@ -20,7 +18,7 @@
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />&nbsp;
 </p>
 
 <h4 align="center"> Machine Learning / Deep Learning</h4>
