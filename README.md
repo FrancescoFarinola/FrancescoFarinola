@@ -1,16 +1,5 @@
 <h1 align="center"> 👋 Hello, I'm Francesco </h1>
 
-<p align="center">
-  <samp> 
-    
-         - Passionate about Artificial Intelligence 🤖
-    
-         - Constantly learning 📖 I'm a curious person (●'◡'●)
-    
-         - Hobbies : ⛹️🏀🎶🧑‍🍳 
-  </samp>
-</p>
-
 <h2 align="center"> 🔭 Tech Stack</h2>
 <h4 align="center"> Programming Languages</h4>
 <p align="center">
